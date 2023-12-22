@@ -6,6 +6,10 @@
 4. Run this project
 5.  Add books sign up new students and etc.
 # Images from site
+
+<img src="[relative/path/in/repository/to/image.svg](https://github.com/t4iler/Library_project_C-/blob/master/images/1.png)" width="128"/>
+
+
 ![alt text]([http://url/to/img.png](https://github.com/t4iler/Library_project_C-/blob/master/images/1.png)https://github.com/t4iler/Library_project_C-/blob/master/images/1.png)
 
 ![alt text]([[http://url/to/img.png](https://github.com/t4iler/Library_project_C-/blob/master/images/1.png)https://github.com/t4iler/Library_project_C-/blob/master/images/1.png](https://github.com/t4iler/Library_project_C-/blob/master/images/2.png))
