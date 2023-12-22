@@ -9,11 +9,7 @@
 ![Alt text](https://github.com/t4iler/Library_project_C-/blob/master/images/1.png)
 
 
-<img src="[https://github.com/t4iler/Library_project_C-/blob/master/images/1.png] " width="128"/>
-https://github.com/t4iler/Library_project_C-/blob/master/images/1.png
+![Alt text](https://github.com/t4iler/Library_project_C-/blob/master/images/2.png)
 
-![alt text]([http://url/to/img.png](https://github.com/t4iler/Library_project_C-/blob/master/images/1.png)https://github.com/t4iler/Library_project_C-/blob/master/images/1.png)
 
-![alt text]([[http://url/to/img.png](https://github.com/t4iler/Library_project_C-/blob/master/images/1.png)https://github.com/t4iler/Library_project_C-/blob/master/images/1.png](https://github.com/t4iler/Library_project_C-/blob/master/images/2.png))
-
-![alt text]([[http://url/to/img.png](https://github.com/t4iler/Library_project_C-/blob/master/images/1.png)https://github.com/t4iler/Library_project_C-/blob/master/images/1.png)](https://github.com/t4iler/Library_project_C-/blob/master/images/3.png)https://github.com/t4iler/Library_project_C-/blob/master/images/3.png
+![Alt text](https://github.com/t4iler/Library_project_C-/blob/master/images/3.png)
