@@ -4,3 +4,4 @@
 2. Open in Visual Studio folder 'LibrarySystem'
 3. Create database using SQL Server Managment studio and connect the database with folder 'Library Database' so you can run this project successfully. Change the connection string in the web config file.
 4. Run this project
+5.  Add books sign up new students and etc.
